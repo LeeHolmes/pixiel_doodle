@@ -1,4 +1,4 @@
-# Pixiel Doodle
+# Pixel Doodle
 Pixel Doodle is a cute pixel editor for Gameboy, written using Gameboy Studio. For more details, [the Pixel Doodle Homepage](https://www.leeholmes.com/pixel-doodle/).
 
 ## Implementation Details
